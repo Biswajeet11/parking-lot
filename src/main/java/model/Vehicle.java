@@ -3,6 +3,7 @@ package model;
 public class Vehicle {
     private String licenseNumber;
     private VehicleType vehicleType;
+    private ParkingTicket parkingTicket;
 
     public String getLicenseNumber(){
         return licenseNumber;
@@ -11,9 +12,7 @@ public class Vehicle {
     public VehicleType getVehicleType() {
         return vehicleType;
     }
-
-    Vehicle(String licenseNumber, VehicleType vehicleType){
-        this.licenseNumber = licenseNumber;
-        this.vehicleType = vehicleType;
+    public ParkingTicket getParkingTicket(){
+        return parkingTicket;
     }
 }
