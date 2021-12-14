@@ -7,4 +7,4 @@ public class ParkingLot extends BaseModel{
     private List<EntryGate> entryGates;
     private List<ExitGate> exitGates;
     private List<ParkingFloor> parkingFloors;
-}
+ }
