@@ -6,4 +6,5 @@ public class Payment {
     private double amount;
     private PaymentStatus paymentStatus;
     private Date paymentCreationDate;
+    private PaymentType paymentType;
 }

@@ -1,7 +1,7 @@
 package model;
 
 public class ParkingSpace {
-    
+
     private int parkingSpaceId;
     private boolean isSpaceOccupied;
     private Vehicle vehicle;
