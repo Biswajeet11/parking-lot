@@ -11,4 +11,6 @@ public class ParkingTicket {
     private double  totalParkingCost;
     private ParkingStatus parkingTicketStatus;
 
+    public void generateTicket(ParkingSpace parkingSpace) {
+    }
 }

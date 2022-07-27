@@ -1,11 +1,21 @@
 package model;
 
+import java.util.UUID;
+
 public class ParkingSpace {
 
-    private int parkingSpaceId;
+    private String parkingSpaceId;
     private boolean isSpaceOccupied;
     private Vehicle vehicle;
     private ParkingSpaceType parkingSpaceType;
+
+
+
+    public ParkingSpace(boolean isSpaceOccupied, ParkingSpaceType parkingSpaceType) {
+        this.parkingSpaceId = UUID.randomUUID().toString();
+        this.isSpaceOccupied = isSpaceOccupied;
+        this.parkingSpaceType = parkingSpaceType;
+    }
 
     public void setSpaceOccupied(boolean spaceOccupied) {
         this.isSpaceOccupied = spaceOccupied;
@@ -21,6 +31,10 @@ public class ParkingSpace {
 
     public boolean isSpaceOccupied() {
         return isSpaceOccupied;
+    }
+
+    public ParkingSpaceType getParkingSpaceType() {
+        return parkingSpaceType;
     }
 
     public Vehicle getVehicle() {

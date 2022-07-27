@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f68868b-98a6-4ce0-9023-e40bb19b0e67" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/ParkingFloor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/ParkingFloor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/ParkingLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/ParkingLot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/ParkingSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/ParkingSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/ParkingSpaceType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/ParkingSpaceType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/ParkingTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/ParkingTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/BaseModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/BaseModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/EntryGate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/EntryGate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/ExitGate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/ExitGate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Gate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Gate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/ParkingAttendant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/ParkingAttendant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/ParkingDisplayBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/ParkingDisplayBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/ParkingFloor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/ParkingFloor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/ParkingLot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/ParkingLot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/ParkingSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/ParkingSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/ParkingSpaceType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/ParkingSpaceType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/ParkingStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/ParkingStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/ParkingTicket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/ParkingTicket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Payment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Payment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/PaymentStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/PaymentStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/PaymentType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/PaymentType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/VehicleType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/VehicleType.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25XsffjdLiKpnfTYS5uSGqyofPa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/biswajeetgope/Downloads/lld-practice/parking-lot"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="parking-lot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f68868b-98a6-4ce0-9023-e40bb19b0e67" name="Changes" comment="" />
+      <created>1645684873593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645684873593</updated>
+      <workItem from="1645684884735" duration="1046000" />
+      <workItem from="1647881330780" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/parking_lot$Client.ic" NAME="Client Coverage Results" MODIFIED="1658932974729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
